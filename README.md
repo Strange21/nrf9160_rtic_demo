@@ -1,1 +1,1 @@
-# nrf9160_rtic_demo
+# nrf9160_flash_driver
