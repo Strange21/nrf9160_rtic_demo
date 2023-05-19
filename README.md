@@ -1,1 +1,2 @@
-# nrf9160_flash_driver
+# nrf9160 demo with RTIC
+real time interrupt driven concurrancy
